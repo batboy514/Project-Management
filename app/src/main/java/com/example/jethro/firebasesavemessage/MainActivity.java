@@ -60,4 +60,8 @@ public class MainActivity extends AppCompatActivity {
             textInput.setText("");
         }
     }
+    public void SSS()
+    {
+
+    }
 }
